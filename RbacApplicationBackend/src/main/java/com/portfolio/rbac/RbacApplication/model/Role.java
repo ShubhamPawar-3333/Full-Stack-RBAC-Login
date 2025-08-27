@@ -1,4 +1,6 @@
 package com.portfolio.rbac.RbacApplication.model;
 
-public class Role {
+public enum Role {
+    USER,
+    ADMIN
 }
