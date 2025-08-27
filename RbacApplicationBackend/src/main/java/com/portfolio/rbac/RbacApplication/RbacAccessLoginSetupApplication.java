@@ -1,13 +1,13 @@
-package com.portfolio.rbac.RBACApplication;
+package com.portfolio.rbac.RbacApplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RbacApplication {
+public class RbacAccessLoginSetupApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RbacApplication.class, args);
+		SpringApplication.run(RbacAccessLoginSetupApplication.class, args);
 	}
 
 }

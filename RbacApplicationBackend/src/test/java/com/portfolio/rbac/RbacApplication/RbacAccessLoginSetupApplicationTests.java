@@ -1,10 +1,10 @@
-package com.portfolio.rbac.RBACApplication;
+package com.portfolio.rbac.RbacApplication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RbacApplicationTests {
+class RbacAccessLoginSetupApplicationTests {
 
 	@Test
 	void contextLoads() {
